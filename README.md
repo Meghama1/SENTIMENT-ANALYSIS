@@ -25,3 +25,7 @@ The output of sentiment analysis is typically a sentiment label (positive, negat
 Beyond basic classification, sentiment analysis can be extended to **aspect-based sentiment analysis**, where opinions on specific movie elements (e.g., acting, plot, cinematography, music) are extracted and analyzed separately. This gives studios targeted feedback for improvement.
 
 Overall, sentiment analysis on movie reviews provides valuable insights into audience perceptions, enabling data-driven decision-making in marketing, content creation, and reputation management. It transforms subjective opinions into measurable metrics, allowing stakeholders to track public sentiment, anticipate trends, and tailor strategies to audience preferences more effectively.
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/1bcbb0fd-b43b-423e-950d-75d1af622490)
